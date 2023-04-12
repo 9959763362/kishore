@@ -4,3 +4,5 @@ idli
 dosa
 gheer
 pasta
+chicken
+fry
