@@ -6,3 +6,5 @@ gheer
 pasta
 chicken
 fry
+pizza
+burger
